@@ -22,6 +22,8 @@ A list of questions that engineers / architects / managers should ask before the
   - What are the best communication channels with stakeholders? 
 - History
   - Are there older versions of this project?
+  - Is there an architecture of current project?
+  - Are there list of tools used in the project?
   - Is there a dedicated development team for the project?
   - Are there any tasks in progress?
   - Are there any third-party services involved in the development of the project?
