@@ -3,33 +3,8 @@
 
 A list of questions that engineers / architects / managers should ask before the start of a project.
 
-## Pre-Conditions
-- What are the goals of the project?
-- Plans
-  - What is the deadline?
-  - What hast to be considered to meet the deadline?
-  - When should the project be launched?
-  - What are the risks if the project is delayed?
-  - Are there any conditions, blockers, or anything else that may cause the project to fail?
-  - Is there a growing plan for the project?
-- Budget
-  - What is the budget for the project?
-  - What is the payment model?
-- Stakeholders
-  - Who is the project owner?
-  - How the responsibilities are assigned for the project according to the [RAM](https://en.wikipedia.org/wiki/Responsibility_assignment_matrix)?
-  - Are there availability dates for stakeholders from the matrix?
-  - What are the best communication channels with stakeholders? 
-- History
-  - Are there older versions of this project?
-  - Is there an architecture of current project?
-  - Are there list of tools used in the project?
-  - Is there a dedicated development team for the project?
-  - Are there any tasks in progress?
-  - Are there any third-party services involved in the development of the project?
-
 ## Functional Requirements
-
+- What are the goals of the project?
 - Project
     - What are the project parts, modules?
 - User
@@ -63,3 +38,26 @@ A list of questions that engineers / architects / managers should ask before the
 - Testability
   - How test engineers can test the project?
 
+## Other
+- Plans
+  - What is the deadline?
+  - What hast to be considered to meet the deadline?
+  - When should the project be launched?
+  - What are the risks if the project is delayed?
+  - Are there any conditions, blockers, or anything else that may cause the project to fail?
+  - Is there a growing plan for the project?
+- Budget
+  - What is the budget for the project?
+  - What is the payment model?
+- Stakeholders
+  - Who is the project owner?
+  - How the responsibilities are assigned for the project according to the [RAM](https://en.wikipedia.org/wiki/Responsibility_assignment_matrix)?
+  - Are there availability dates for stakeholders from the matrix?
+  - What are the best communication channels with stakeholders? 
+- History
+  - Are there older versions of this project?
+  - Is there an architecture of current project?
+  - Are there list of tools used in the project?
+  - Is there a dedicated development team for the project?
+  - Are there any tasks in progress?
+  - Are there any third-party services involved in the development of the project?
