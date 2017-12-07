@@ -63,3 +63,5 @@ A list of questions that engineers / architects / managers should ask before the
   - Is there a dedicated development team for the project?
   - Are there any tasks in progress?
   - Are there any third-party services involved in the development of the project?
+  - How to get source of the project?
+  
