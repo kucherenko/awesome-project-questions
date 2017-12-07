@@ -15,6 +15,7 @@ A list of questions that engineers / architects / managers should ask before the
 - Data
     - Where should the data of the system be stored?
     - Are there any legal and regulatory restrictions?
+    - What are the data formats? 
   
 ## Non-Functional Requirements
 - General idea, how to measure quality attributes?
@@ -29,12 +30,13 @@ A list of questions that engineers / architects / managers should ask before the
   - Should there be separate versions for mobile and web?
   - Should the project be accessible for people with a different range of disabilities?
 - Security
-	- Are there parts of the project with different access levels?
+  - Are there parts of the project with different access levels?
 - Scalability
+  - Should the project have the high loads peak?
 - Reliability
 - Maintainability
   - What is expected and acceptable downtime of the project?
-  - Are there any time periods when the project can be unavailable?  
+  - Are there any time periods when the project can be unavailable?
 - Testability
   - How test engineers can test the project?
 
