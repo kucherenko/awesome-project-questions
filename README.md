@@ -56,6 +56,8 @@ A list of questions that engineers / architects / managers should ask before the
   - How the responsibilities are assigned for the project according to the [RAM](https://en.wikipedia.org/wiki/Responsibility_assignment_matrix)?
   - Are there availability dates for stakeholders from the matrix?
   - What are the best communication channels with stakeholders? 
+- Risks
+  - Are there any risks with project success?
 - History
   - Are there older versions of this project?
   - Is there an architecture of current project?
