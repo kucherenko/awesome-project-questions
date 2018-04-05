@@ -3,6 +3,13 @@
 
 A list of questions that engineers / architects / managers should ask before the start of a project.
 
+## Questions to CEO
+- What are the goals of the project?
+- Project
+    - What are the project parts, modules?
+- What are you expected from our cooperation?
+- What is the problem what we should resolve?
+
 ## Functional Requirements
 - What are the goals of the project?
 - Project
