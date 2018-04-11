@@ -12,8 +12,9 @@ A list of questions that engineers / architects / managers should ask before the
         - Customer's feedbacks
         - Open analytycs and statistic
     - Inforation About Business 
-        - Big players & competitors
+        - Business domain specific 
         - Glossary
+        - Big players & competitors
         - Typical technical solutions, services & integrations
     - CEO, CTO
         - Articles
