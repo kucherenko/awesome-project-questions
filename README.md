@@ -17,9 +17,12 @@ A list of questions that engineers / architects / managers should ask before the
         - Big players & competitors
         - Typical technical solutions, services & integrations
     - CEO, CTO
-        - Articles
-        - LinkedIn
-        - FB
+        - Technical & business background
+        - History of work
+        - Areas of interests
+ 
+ Sourses for reasearch: company web site, google, linkedin,FB, articles, alexa.
+         
         
 
 ## Questions to CEO
