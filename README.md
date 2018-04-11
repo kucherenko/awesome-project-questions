@@ -21,7 +21,7 @@ A list of questions that engineers / architects / managers should ask before the
         - History of work
         - Areas of interests
  
- Sourses for reasearch: company web site, google, linkedin,FB, articles, alexa.
+ Sourses for reasearch: company web site, google, linkedin, FB, articles, alexa.
          
         
 
