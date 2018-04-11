@@ -14,7 +14,7 @@ A list of questions that engineers / architects / managers should ask before the
     - Inforation About Business 
         - Big players & competitors
         - Glossary
-        - Typical technical solutions
+        - Typical technical solutions, services & integrations
     - CEO, CTO
         - Articles
         - LinkedIn
