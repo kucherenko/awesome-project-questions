@@ -9,12 +9,12 @@ A list of questions that engineers / architects / managers should ask before the
         - News
         - IPO
         - History
-        - Customer Feedbacks
+        - Customer's feedbacks
         - Open analytycs and statistic
     - Inforation About Business 
-        - Big players
+        - Big players & competitors
         - Glossary
-        - Typical Technical Solutions
+        - Typical technical solutions
     - CEO, CTO
         - Articles
         - LinkedIn
