@@ -3,6 +3,24 @@
 
 A list of questions that engineers / architects / managers should ask before the start of a project.
 
+## Background Research List
+- Company Research
+    - Investigate information about company in the Internet
+        - News
+        - IPO
+        - History
+        - Customer Feedbacks
+        - Open analytycs and statistic
+    - Inforation About Business 
+        - Big players
+        - Glossary
+        - Typical Technical Solutions
+    - CEO, CTO
+        - Articles
+        - LinkedIn
+        - FB
+        
+
 ## Questions to CEO
 - What are the goals of the project?
 - Project
