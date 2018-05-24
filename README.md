@@ -32,6 +32,30 @@ A list of questions that engineers / architects / managers should ask before the
 - What are you expected from our cooperation?
 - What is the problem what we should resolve?
 
+## Questions to technical specialists
+ - Architecture
+    - What is the current architecture?
+    - Whta are there main disadvantages and advantages of the architecture?
+ - Infrastructure
+    - What is the current infrastructure?
+    - How to deploy the project?
+    - Do you have any issues with the infrastructure?
+    - What is the cost of infrastructure?
+ - Technologies
+    - Could you describe the tech stack?
+ - Data
+  - Current database
+  - Data structures
+  - Size of data
+ - Development
+  - Source
+ - Deployment
+  - Deployment tools and processes
+  - Envs?
+ - Testing
+  - How to test the project?
+  
+ 
 ## Functional Requirements
 - What are the goals of the project?
 - Project
