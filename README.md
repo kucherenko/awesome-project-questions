@@ -47,6 +47,7 @@ A list of questions that engineers / architects / managers should ask before the
     - Current database
     - Data structures
     - Size of data
+    - How to integrate or migrate data to new solution?
  - Development
     - Source
  - Deployment
