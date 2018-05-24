@@ -44,16 +44,16 @@ A list of questions that engineers / architects / managers should ask before the
  - Technologies
     - Could you describe the tech stack?
  - Data
-  - Current database
-  - Data structures
-  - Size of data
+    - Current database
+    - Data structures
+    - Size of data
  - Development
-  - Source
+    - Source
  - Deployment
-  - Deployment tools and processes
-  - Envs?
+    - Deployment tools and processes
+    - Envs?
  - Testing
-  - How to test the project?
+    - How to test the project?
   
  
 ## Functional Requirements
