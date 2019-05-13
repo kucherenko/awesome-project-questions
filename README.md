@@ -69,7 +69,8 @@ A list of questions that engineers / architects / managers should ask before the
 - Data
     - Where should the data of the system be stored?
     - Are there any legal and regulatory restrictions?
-    - What are the data formats? 
+    - What are the data formats?
+    - How long data should be persists?
   
 ## Non-Functional Requirements
 - General idea, how to measure quality attributes?
