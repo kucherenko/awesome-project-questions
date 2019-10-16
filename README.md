@@ -1,5 +1,6 @@
 # Awesome Project Questions
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A list of questions that engineers / architects / managers should ask before the start of a project.
 
