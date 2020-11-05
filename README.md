@@ -1,6 +1,5 @@
-# Awesome Project Questions
+# Awesome Project Questions [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A list of questions that engineers / architects / managers should ask before the start of a project.
 
@@ -12,7 +11,7 @@ A list of questions that engineers / architects / managers should ask before the
         - History
         - Customer's feedbacks
         - Open analytycs and statistic
-    - Inforation About Business 
+    - Information About Business 
         - Business domain specific 
         - Glossary
         - Big players & competitors
@@ -22,9 +21,8 @@ A list of questions that engineers / architects / managers should ask before the
         - History of work
         - Areas of interests
  
- Sourses for reasearch: company web site, google, linkedin, FB, articles, alexa.
-         
-        
+ Sources for reasearch: company web site, google, linkedin, FB, articles, alexa.
+                
 
 ## Questions to CEO
 - What are the goals of the project?
