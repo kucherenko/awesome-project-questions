@@ -1,7 +1,14 @@
 # Awesome Project Questions [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-
 A list of questions that engineers / architects / managers should ask before the start of a project.
+
+## Contents
+- [Background Research List](#background-research-list)
+- [Questions to CEO](#questions-to-ceo)
+- [Questions to technical specialists](#questions-to-technical-specialists)
+- [Functional Requirements](#functional-requirements)
+- [Non-Functional Requirements](#non-functional-requirements)
+- [Other](#other)
 
 ## Background Research List
 - Company Research
@@ -32,30 +39,29 @@ A list of questions that engineers / architects / managers should ask before the
 - What is the problem what we should resolve?
 
 ## Questions to technical specialists
- - Architecture
+- Architecture
     - What is the current architecture?
     - Whta are there main disadvantages and advantages of the architecture?
- - Infrastructure
+- Infrastructure
     - What is the current infrastructure?
     - How to deploy the project?
     - Do you have any issues with the infrastructure?
     - What is the cost of infrastructure?
- - Technologies
+- Technologies
     - Could you describe the tech stack?
- - Data
+- Data
     - Current database
     - Data structures
     - Size of data
     - How to integrate or migrate data to new solution?
- - Development
+- Development
     - Source
- - Deployment
+- Deployment
     - Deployment tools and processes
     - Envs?
- - Testing
+- Testing
     - How to test the project?
   
- 
 ## Functional Requirements
 - What are the goals of the project?
 - Project
