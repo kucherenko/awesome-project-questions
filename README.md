@@ -35,13 +35,13 @@ A list of questions that engineers / architects / managers should ask before the
 - What are the goals of the project?
 - Project
     - What are the project parts, modules?
-- What are you expected from our cooperation?
-- What is the problem what we should resolve?
+- What are you expecting from our cooperation?
+- What is the problem that we should resolve?
 
 ## Questions to technical specialists
 - Architecture
     - What is the current architecture?
-    - Whta are there main disadvantages and advantages of the architecture?
+    - What are there main disadvantages and advantages of the architecture?
 - Infrastructure
     - What is the current infrastructure?
     - How to deploy the project?
